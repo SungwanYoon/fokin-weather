@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fokin-weather",
-    "slug": "fokin-weather",
+    "name": "weather-app",
+    "slug": "weather-app",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/SungwanYoon/fokin-weather.git"
   }
 }
